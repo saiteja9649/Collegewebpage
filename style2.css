@@ -1,0 +1,48 @@
+body {
+  padding-top: 5rem;
+}
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+.photo{
+     max-width: 1000px;
+    padding: 30px;
+    background: white;
+}
+.matter{
+    background: white;
+    
+}
+.matter1{
+    background: white;
+    height: 1000px; 
+}
+.heading{
+    color:#2d3436;
+    background: skyblue;
+    padding: 10px;
+    width:1200px;
+}
+#im{
+    color: #2d3436;
+    background: skyblue;
+    padding:1px;
+}
+.abc{
+    color:#2d3436;
+     background: skyblue;
+    padding: 10px;
+    width:1110px;
+
+}
+#ab{
+    color:#2d3436;
+     background: skyblue;
+    padding: 10px;
+}
+#bc{
+    color:#2d3436;
+     background: skyblue;
+    padding: 10px;
+}

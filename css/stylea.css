@@ -1,0 +1,23 @@
+.container{
+    max-width: 1000px;
+    padding: 30px;
+    background: red;
+}
+.green{
+    background: green;
+    width: 100%;
+    padding: 20px;
+    color: white;
+    
+}
+.yellow{
+      background: yellow;
+    width: 100%;
+   
+}
+.blue{
+    background: blue;
+    width: 100%;
+    color: white;
+
+}
